@@ -56,7 +56,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/gelin-wang-taro504
- - icon: fa-weixin
+- icon: fa-weixin
   icon_pack: fab
   link: Green_Wang07
 
