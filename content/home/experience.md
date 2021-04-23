@@ -22,28 +22,53 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Master Thesis Student
+    company: Trumpf GmbH
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+    location: Ditzingen, Germany
+    date_start: '2021-07'
+    date_end: '2022-01'
+    description: Optimization of a statistical Model for Machine Learning using Distributed Sensor Data (work in python, written in English) 
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: R&D Intern
+    company: Trumpf GmbH
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Ditzingen, Germany
+    date_start: '2020-10'
+    date_end: '2021-04'
+    description: Machine Learning for optical sensor development
+
+ - title: Student Research Assistant
+    company: KIT
+    company_url: ''
+    company_logo: org-gc
+    location: Karslruhe, Germany
+    date_start: '2016'
+    date_end: '2020'
+    description:
+        * 2020: Task for Student Innovation Lab from ITIV in KIT
+        * 2018-2019: Task for Mechatronic Systems and Productions from IPEK in KIT
+		* 2016-2017: Task for Medien Center in KIT
+
+- title: Working Student
+    company: Siemens AG
+    company_url: ''
+    company_logo: org-x
+    location: Karlsruhe, Germany
+    date_start: '2017-03'
+    date_end: '2018-04'
+    description: Software (test) engineering of TIA Portal for SIMATIC products
+
+- title: Intern
+    company: STOPA GmbH
+    company_url: ''
+    company_logo: org-x
+    location: Achern, Germany
+    date_start: '2015-04'
+    date_end: '2015-05'
+    description: Basic electrical and mechanical training
 
 design:
   columns: '2'
