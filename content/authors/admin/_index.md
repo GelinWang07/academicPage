@@ -14,7 +14,7 @@ organizations:
   url: https://www.kit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 Interests:
@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,14 +70,12 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Hello!
-===============
-I am a Chinese student studying machatronics and information technology as Master at Karslruhe Institute of Technology(KIT), Germany. I have obtained my bachelor degree with the same major at KIT. Now I am writing my master thesis in the R&D department at Trumpf Gmbh + Co.KG (Ditzingen, Germany), and under the supervision of Prof. Gisela Lanza (wbk Institute of Production Science, KIT). On this website, you can find information about my work, research and interests. 
+I am a Chinese student studying machatronics and information technology as Master at **[Karslruhe Institute of Technology (KIT)](https://www.kit.edu/)**, Germany. I have obtained my bachelor degree with the same major at KIT. Now I am writing my master thesis in the R&D department at **[Trumpf Gmbh + Co.KG](https://www.trumpf.com/)** (Ditzingen, Germany), and under the supervision of **[Prof. Gisela Lanza](https://www.wbk.kit.edu/21_90.php)** (wbk Institute of Production Science, KIT). On this website, you can find information about my work, research and interests. 
 
-My work and research are mainly focused on CV and SLAM, AI and robotics, sensor and system development. In the field of industrial usages, the management and development of production are also the challenges I am looking forward to. Currently, my work is focusing on *distributed machine learning*. After my master study at KIT in early 2022, I am seeking for the opportunities of a Ph.D position in the above mentioned area. If you are interested in my work, don't be hesitated to contact me for the further cooperation.
+My work and research are mainly focused on **CV and SLAM, AI and robotics, sensor and system development**. In the field of industrial usages, **the management and development of production** are also the challenges I am looking forward to. Currently, my work is focusing on **distributed machine learning**. After my master study at KIT in early 2022, I am seeking for the opportunities of a ***Ph.D position*** in the above mentioned area. If you are interested in my work, don't be hesitated to contact me for the further cooperation.
 ***
 ***#Across the Great Wall, we can reach every corner in the world.***
 
-***#Industry 4.0 #Made in China 2025***
+***#{{< icon name="de" pack="fab" >}}Industry 4.0 #{{< icon name="cn" pack="fab" >}}Made in China 2025***
 
 ***#Full-stack engineer #Ph.D seeker #ENTJ-A***
