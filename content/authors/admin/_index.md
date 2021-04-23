@@ -88,4 +88,3 @@ My work and research are mainly focused on CV and SLAM, AI and robotics, sensor 
 ***#Industry 4.0 #Made in China 2025***
 
 ***#Full-stack engineer #Ph.D seeker #ENTJ-A***
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
