@@ -22,6 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
   - title: Master Thesis Student
     company: Trumpf GmbH
     company_url: ''
@@ -46,8 +47,8 @@ experience:
     company_logo: org-gc
     location: Karslruhe, Germany
     date_start: '2015-12'
-    date_end: '2020-04'
-     description: |2-
+    date_end: '2020-09'
+    description: |2-
         Responsibilities include:
         
         * 2020: Task for Student Innovation Lab from ITIV in KIT
