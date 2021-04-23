@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Gelin Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Karlsruhe Institute of Technology (KIT), Germamy
+  url: https://www.kit.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Focuses:
+- Artificial Intelligence and robotics
+- Simultaneous localization and mapping
+- System Development
+- Production and Management
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+ # - course: PhD in Artificial Intelligence
+ #   institution: Stanford University
+ #   year: 2012
+  - course: MSc in Mechatronics and Information Technology focusing on robotics 
+    institution: Karlsruhe Institute of Technology (KIT)
+    year: 2019-2022
+  - course: BSc in Mechatronics and Information Technology
+    institution: Karlsruhe Institute of Technology (KIT)
+    year: 2015-1019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,18 +44,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/GelinWang07
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/gelin-wang-taro504
+ - icon: fa-weixin
+  icon_pack: fab
+  link: Green_Wang07
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -69,9 +73,19 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
+Hello!
+===============
+I am a Chinese student studying machatronics and information technology as Master at Karslruhe Institute of Technology(KIT), Germany. I have obtained my bachelor degree with the same major from KIT. Now I am writing my master thesis in the R&D department at Trumpf Gmbh + Co.KG (Ditzingen, Germany), and under the supervision of Prof. Gisela Lanza (wbk Institute of Production Science, KIT). On this website, you can find information about my work, research and interests. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+from research to production
+===============
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My work and research are mainly focused on CV and SLAM, AI and robotics, sensor and system development. In the field of industrial usages, the management and development of production are also the challenges I am looking forward to. Currently, my work is focusing on *distributed machine learning*. After my master study at KIT in early 2022, I am seeking for the opportunities of a Ph.D position in the above mentioned area. If you are interested in my work, don't be hesitated to contact me for the further cooperation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+***
+***#Across the Great Wall, we can reach every corner in the world.***
+
+***#Industry 4.0 #Made in China 2025***
+
+***#Full-stack engineer #Ph.D seeker #ENTJ-A***
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
