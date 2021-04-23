@@ -76,6 +76,6 @@ My work and research are mainly focused on **CV and SLAM, AI and robotics, senso
 ***
 ***#Across the Great Wall, we can reach every corner in the world.***
 
-***#{{< icon name="de" pack="emoji" >}}Industry 4.0 #{{< icon name="cn" pack="emoji" >}}Made in China 2025***
+***#{{< icon name=":de:" pack="emoji" >}}Industry 4.0 #{{< icon name=":cn:" pack="emoji" >}}Made in China 2025***
 
 ***#Full-stack engineer #Ph.D seeker #ENTJ-A***
