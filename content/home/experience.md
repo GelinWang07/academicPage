@@ -45,8 +45,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Karslruhe, Germany
-    date_start: '2016'
-    date_end: '2020'
+    date_start: '2015-12'
+    date_end: '2020-04'
      description: |2-
         Responsibilities include:
         
