@@ -53,7 +53,7 @@ experience:
         * 2018-2019: Task for Mechatronic Systems and Productions from IPEK in KIT
 		    * 2016-2017: Task for Medien Center in KIT
 
- - title: Working Student
+  - title: Working Student
     company: Siemens AG
     company_url: ''
     company_logo: org-x
@@ -62,7 +62,7 @@ experience:
     date_end: '2018-04'
     description: Software (test) engineering of TIA Portal for SIMATIC products
 
- - title: Intern
+  - title: Intern
     company: STOPA GmbH
     company_url: ''
     company_logo: org-x
