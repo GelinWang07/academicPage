@@ -156,5 +156,5 @@ cms:
 icon:
   pack:
     ai: true
-    cn: true
-    de: true
+    emoji: true
+   
