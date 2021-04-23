@@ -28,9 +28,6 @@ address:
   #region: CA
   #postcode: '94305'
   country: Germany
-  
-  city: Ningbo
-  Country: P.R.China
   #country_code: US
 #coordinates:
 # latitude: '37.4275'
@@ -159,3 +156,5 @@ cms:
 icon:
   pack:
     ai: true
+    cn: true
+    de: true
