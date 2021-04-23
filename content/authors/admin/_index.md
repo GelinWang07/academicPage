@@ -19,8 +19,8 @@ organizations:
 # Interests to show in About widget
 Interests:
 - Artificial Intelligence and robotics
-- Simultaneous localization and mapping
 - System Development
+- Simultaneous localization and mapping
 - Production and Management
 
 # Education to show in About widget
@@ -34,7 +34,7 @@ education:
     year: 2019-2022
   - course: BSc in Mechatronics and Information Technology
     institution: Karlsruhe Institute of Technology (KIT)
-    year: 2015-1019
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,12 +70,12 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a Chinese student studying machatronics and information technology as Master at **[Karslruhe Institute of Technology (KIT)](https://www.kit.edu/)**, Germany. I have obtained my bachelor degree with the same major at KIT. Now I am writing my master thesis in the R&D department at **[Trumpf Gmbh + Co.KG](https://www.trumpf.com/)** (Ditzingen, Germany), and under the supervision of **[Prof. Gisela Lanza](https://www.wbk.kit.edu/21_90.php)** (wbk Institute of Production Science, KIT). On this website, you can find information about my work, research and interests. 
+I am a Chinese student studying machatronics and information technology as Master at **[Karslruhe Institute of Technology (KIT)](https://www.kit.edu/)**, Germany. I have obtained my bachelor degree with the same major at KIT. Now I am writing my master thesis in the R&D department at **[Trumpf Gmbh + Co.KG](https://www.trumpf.com/)** (Ditzingen, Germany), and under the supervision of **[Prof. Gisela Lanza](https://www.wbk.kit.edu/21_90.php)** and **[Jan-Philipp Kaiser](https://www.wbk.kit.edu/21_3748.php)**(wbk Institute of Production Science, KIT). On this website, you can find information about my work, research and interests. 
 
 My work and research are mainly focused on **CV and SLAM, AI and robotics, sensor and system development**. In the field of industrial usages, **the management and development of production** are also the challenges I am looking forward to. Currently, my work is focusing on **distributed machine learning**. After my master study at KIT in early 2022, I am seeking for the opportunities of a ***Ph.D position*** in the above mentioned area. If you are interested in my work, don't be hesitated to contact me for the further cooperation.
 ***
 ***#Across the Great Wall, we can reach every corner in the world.***
 
-***#{{< icon name=":de:" pack="emoji" >}}Industry 4.0 #{{< icon name=":cn:" pack="emoji" >}}Made in China 2025***
+***#Industry 4.0 #Made in China 2025***
 
 ***#Full-stack engineer #Ph.D seeker #ENTJ-A***
