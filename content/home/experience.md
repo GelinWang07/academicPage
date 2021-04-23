@@ -47,7 +47,8 @@ experience:
     location: Karslruhe, Germany
     date_start: '2016'
     date_end: '2020'
-    description:
+    description: |2-
+        
         * 2020: Task for Student Innovation Lab from ITIV in KIT
         * 2018-2019: Task for Mechatronic Systems and Productions from IPEK in KIT
 		    * 2016-2017: Task for Medien Center in KIT
