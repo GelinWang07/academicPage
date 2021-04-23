@@ -47,12 +47,13 @@ experience:
     location: Karslruhe, Germany
     date_start: '2016'
     date_end: '2020'
-    description: |2-
+     description: |2-
+        Responsibilities include:
         
         * 2020: Task for Student Innovation Lab from ITIV in KIT
         * 2018-2019: Task for Mechatronic Systems and Productions from IPEK in KIT
-		    * 2016-2017: Task for Medien Center in KIT
-
+        * 2016-2017: Task for Medien Center in KIT
+        
   - title: Working Student
     company: Siemens AG
     company_url: ''
