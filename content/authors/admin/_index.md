@@ -60,9 +60,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,6 +76,6 @@ My work and research are mainly focused on **CV and SLAM, AI and robotics, senso
 ***
 ***#Across the Great Wall, we can reach every corner in the world.***
 
-***#{{< icon name="de" pack="fab" >}}Industry 4.0 #{{< icon name="cn" pack="fab" >}}Made in China 2025***
+***#{{< icon name="de" pack="emoji" >}}Industry 4.0 #{{< icon name="cn" pack="emoji" >}}Made in China 2025***
 
 ***#Full-stack engineer #Ph.D seeker #ENTJ-A***
