@@ -28,8 +28,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Ditzingen, Germany
-    date_start: '2021-07'
-    date_end: '2022-01'
+    date_start: '2021-07-01'
+    date_end: '2022-01-30'
     description: Optimization of a statistical Model for Machine Learning using Distributed Sensor Data (work in python, written in English) 
         
   - title: R&D Intern
@@ -37,8 +37,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Ditzingen, Germany
-    date_start: '2020-10'
-    date_end: '2021-04'
+    date_start: '2020-10-01'
+    date_end: '2021-04-30'
     description: Machine Learning for optical sensor development
 
   - title: Student Research Assistant
@@ -46,8 +46,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Karslruhe, Germany
-    date_start: '2015-12'
-    date_end: '2020-09'
+    date_start: '2015-12-01'
+    date_end: '2020-09-30'
     description: |2-
         Responsibilities include:
         
@@ -60,8 +60,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Karlsruhe, Germany
-    date_start: '2017-03'
-    date_end: '2018-04'
+    date_start: '2017-03-01'
+    date_end: '2018-04-30'
     description: Software (test) engineering of TIA Portal for SIMATIC products
 
   - title: Intern
@@ -69,8 +69,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Achern, Germany
-    date_start: '2015-04'
-    date_end: '2015-05'
+    date_start: '2015-04-01'
+    date_end: '2015-05-30'
     description: Basic electrical and mechanical training
 
 design:
