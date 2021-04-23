@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-Focuses:
+Interests:
 - Artificial Intelligence and robotics
 - Simultaneous localization and mapping
 - System Development
@@ -56,9 +56,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/gelin-wang-taro504
-- icon: fa-weixin
-  icon_pack: fab
-  link: Green_Wang07
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -75,13 +72,9 @@ highlight_name: false
 ---
 Hello!
 ===============
-I am a Chinese student studying machatronics and information technology as Master at Karslruhe Institute of Technology(KIT), Germany. I have obtained my bachelor degree with the same major from KIT. Now I am writing my master thesis in the R&D department at Trumpf Gmbh + Co.KG (Ditzingen, Germany), and under the supervision of Prof. Gisela Lanza (wbk Institute of Production Science, KIT). On this website, you can find information about my work, research and interests. 
-
-from research to production
-===============
+I am a Chinese student studying machatronics and information technology as Master at Karslruhe Institute of Technology(KIT), Germany. I have obtained my bachelor degree with the same major at KIT. Now I am writing my master thesis in the R&D department at Trumpf Gmbh + Co.KG (Ditzingen, Germany), and under the supervision of Prof. Gisela Lanza (wbk Institute of Production Science, KIT). On this website, you can find information about my work, research and interests. 
 
 My work and research are mainly focused on CV and SLAM, AI and robotics, sensor and system development. In the field of industrial usages, the management and development of production are also the challenges I am looking forward to. Currently, my work is focusing on *distributed machine learning*. After my master study at KIT in early 2022, I am seeking for the opportunities of a Ph.D position in the above mentioned area. If you are interested in my work, don't be hesitated to contact me for the further cooperation.
-
 ***
 ***#Across the Great Wall, we can reach every corner in the world.***
 
