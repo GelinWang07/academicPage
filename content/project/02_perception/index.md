@@ -1,6 +1,6 @@
 ---
 title: Perception and Localization
-summary: Bachelor thesis: Implementation and Test of Visual Compass Based on 3D Data
+summary: Bachelor thesis--Implementation and Test of Visual Compass Based on 3D Data
 tags:
 - slam
 #date: "2016-04-27T00:00:00Z"
