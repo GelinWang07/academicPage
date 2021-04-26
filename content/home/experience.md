@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Experience
 subtitle:
@@ -25,52 +25,52 @@ experience:
 
   - title: Master Thesis Student
     company: Trumpf GmbH
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'https://www.trumpf.com/'
+    company_logo: Trumpf
     location: Ditzingen, Germany
-    date_start: '2021-07-01'
-    date_end: '2022-01-30'
+    date_start: '2021-07'
+    date_end: '2022-01'
     description: Optimization of a statistical Model for Machine Learning using Distributed Sensor Data (work in python, written in English) 
         
   - title: R&D Intern
     company: Trumpf GmbH
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://www.trumpf.com/'
+    company_logo: Trumpf
     location: Ditzingen, Germany
-    date_start: '2020-10-01'
-    date_end: '2021-04-30'
+    date_start: '2020-10'
+    date_end: '2021-04'
     description: Machine Learning for optical sensor development
 
   - title: Student Research Assistant
     company: KIT
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'https://www.kit.edu/'
+    company_logo: KIT
     location: Karslruhe, Germany
-    date_start: '2015-12-01'
-    date_end: '2020-09-30'
+    date_start: '2015-12'
+    date_end: '2020-09'
     description: |2-
         Responsibilities include:
         
-        * 2020: Task for Student Innovation Lab from ITIV in KIT
-        * 2018-2019: Task for Mechatronic Systems and Productions from IPEK in KIT
-        * 2016-2017: Task for Medien Center in KIT
+        * 2020: Student Innovation Lab from ITIV in KIT
+        * 2018-2019: Mechatronic Systems and Productions from IPEK in KIT
+        * 2016-2017: Medien Center in KIT
         
   - title: Working Student
     company: Siemens AG
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://www.siemens.com/'
+    company_logo: Siemens
     location: Karlsruhe, Germany
-    date_start: '2017-03-01'
-    date_end: '2018-04-30'
+    date_start: '2017-03'
+    date_end: '2018-04'
     description: Software (test) engineering of TIA Portal for SIMATIC products
 
   - title: Intern
     company: STOPA GmbH
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://www.stopa.com/'
+    company_logo: stopa
     location: Achern, Germany
-    date_start: '2015-04-01'
-    date_end: '2015-05-30'
+    date_start: '2015-04'
+    date_end: '2015-05'
     description: Basic electrical and mechanical training
 
 design:

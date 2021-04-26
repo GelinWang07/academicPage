@@ -7,9 +7,9 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 45
+weight: 65
 
-title: Projects
+title: Work
 subtitle: ''
 
 content:
@@ -25,12 +25,16 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  #- name: All
+  #  tag: '*'
+  - name: AI
+    tag: ai
+  - name: System
+    tag: sys
+  - name: SLAM
+    tag: slam
+  - name: Management
+    tag: management
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
