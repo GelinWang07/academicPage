@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence (AI)
-summary: ai
+summary: Projects in Trumpf GmbH
 tags:
 - ai
 #date: "2016-04-27T00:00:00Z"

@@ -1,8 +1,8 @@
 ---
 title: Perception and Localization
-summary: bachelor thesis
+summary: Bachelor thesis
 tags:
-- ai
+- slam
 #date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
