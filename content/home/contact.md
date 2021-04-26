@@ -24,7 +24,9 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-  
+
+email_form: 0
+
 design:
   columns: '2'
 ---
