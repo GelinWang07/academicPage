@@ -29,7 +29,7 @@ experience:
     company_logo: Trumpf
     location: Ditzingen, Germany
     date_start: '2021-07-01'
-    date_end: '2022-01-31'
+    date_end: '2022-01-30'
     description: Optimization of a statistical Model for Machine Learning using Distributed Sensor Data (work in python, written in English) 
         
   - title: R&D Intern
@@ -47,7 +47,7 @@ experience:
     company_logo: KIT
     location: Karslruhe, Germany
     date_start: '2015-12-01'
-    date_end: '2020-09-31'
+    date_end: '2020-09-30'
     description: |2-
         Responsibilities include:
         
@@ -70,7 +70,7 @@ experience:
     company_logo: stopa
     location: Achern, Germany
     date_start: '2015-04-01'
-    date_end: '2015-05-31'
+    date_end: '2015-05-30'
     description: Basic electrical and mechanical training
 
 design:
