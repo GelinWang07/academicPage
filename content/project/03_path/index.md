@@ -1,6 +1,6 @@
 ---
 title: Path Planning
-summary: An example of using the in-built project page.
+summary: Map-based navigation of a mobile robot.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -9,25 +9,10 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  #caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 In this robot project, a map-based navigation approach by using grid exploration is developed for an indoor robot in both simulation and real world scene. Here the robot explores the environment by lidar and constructs the map by GMapping. The grids are then generated in the map so that the robot stops at each point of a grid and performs a task. Then the robot could autonomously reach as much grids as possibile in the detected environment based on the presented grid traversal algorithm. Moreover, the optimizations possibilities of avoiding collision and checking the path validation are also covered. 
@@ -38,4 +23,3 @@ In this robot project, a map-based navigation approach by using grid exploration
 
 ***#Lidar & decision problem***
 
-***
