@@ -1,6 +1,6 @@
 ---
 title: Artificial Intelligence (AI)
-summary: 
+summary: ai
 tags:
 - ai
 #date: "2016-04-27T00:00:00Z"
