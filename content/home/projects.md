@@ -29,7 +29,7 @@ content:
   #  tag: '*'
   - name: AI
     tag: ai
-  - name: System
+  - name: System Development
     tag: sys
   - name: SLAM
     tag: slam
