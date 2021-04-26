@@ -1,7 +1,7 @@
 ---
 title: Perception and Localization
 
-tag:
+tags:
 -slam
 
 image:
