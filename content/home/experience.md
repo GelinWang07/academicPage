@@ -28,8 +28,8 @@ experience:
     company_url: 'https://www.trumpf.com/'
     company_logo: Trumpf
     location: Ditzingen, Germany
-    date_start: '2021-07'
-    date_end: '2022-01'
+    date_start: '2021-07-01'
+    date_end: '2022-01-31'
     description: Optimization of a statistical Model for Machine Learning using Distributed Sensor Data (work in python, written in English) 
         
   - title: R&D Intern
@@ -37,8 +37,8 @@ experience:
     company_url: 'https://www.trumpf.com/'
     company_logo: Trumpf
     location: Ditzingen, Germany
-    date_start: '2020-10'
-    date_end: '2021-04'
+    date_start: '2020-10-01'
+    date_end: '2021-04-30'
     description: Machine Learning for optical sensor development
 
   - title: Student Research Assistant
@@ -46,8 +46,8 @@ experience:
     company_url: 'https://www.kit.edu/'
     company_logo: KIT
     location: Karslruhe, Germany
-    date_start: '2015-12'
-    date_end: '2020-09'
+    date_start: '2015-12-01'
+    date_end: '2020-09-31'
     description: |2-
         Responsibilities include:
         
@@ -60,8 +60,8 @@ experience:
     company_url: 'https://www.siemens.com/'
     company_logo: Siemens
     location: Karlsruhe, Germany
-    date_start: '2017-03'
-    date_end: '2018-04'
+    date_start: '2017-03-01'
+    date_end: '2018-04-30'
     description: Software (test) engineering of TIA Portal for SIMATIC products
 
   - title: Intern
@@ -69,8 +69,8 @@ experience:
     company_url: 'https://www.stopa.com/'
     company_logo: stopa
     location: Achern, Germany
-    date_start: '2015-04'
-    date_end: '2015-05'
+    date_start: '2015-04-01'
+    date_end: '2015-05-31'
     description: Basic electrical and mechanical training
 
 design:
