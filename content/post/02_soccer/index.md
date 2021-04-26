@@ -2,7 +2,7 @@
 title: Soccer
 
 # Summary for listings and search engines
-summary: The ball is round, the game is still lasting
+summary: The ball is round, the game is still lasting.
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
