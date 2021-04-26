@@ -30,7 +30,7 @@ content:
   - name: AI
     tag: ai
   - name: System Development
-    tag: sys
+    tag: system
   - name: SLAM
     tag: slam
   - name: Management
