@@ -1,6 +1,6 @@
 ---
 title: Controlling
-summary: "Mechatronic Systems and Products" workshop
+summary: Mechatronic Systems and Products workshop
 tags:
 - slam
 date: "2016-04-27T00:00:00Z"
