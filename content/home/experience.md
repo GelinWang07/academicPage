@@ -67,7 +67,7 @@ experience:
   - title: Intern
     company: STOPA GmbH
     company_url: 'https://www.stopa.com/'
-    company_logo: stopa.png
+    company_logo: stopa
     location: Achern, Germany
     date_start: '2015-04-01'
     date_end: '2015-05-30'
