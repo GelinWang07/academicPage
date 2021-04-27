@@ -30,7 +30,7 @@ experience:
     location: Ditzingen, Germany
     date_start: '2021-07-01'
     date_end: '2022-01-30'
-    description: Optimization of a statistical Model for Machine Learning using Distributed Sensor Data (work in python, written in English) 
+    description: Optimization of a statistical model for machine learning using distributed sensor data (work in python, written in English) 
         
   - title: R&D Intern
     company: Trumpf GmbH
@@ -39,7 +39,7 @@ experience:
     location: Ditzingen, Germany
     date_start: '2020-10-01'
     date_end: '2021-04-30'
-    description: Machine Learning for optical sensor development
+    description: Machine learning for optical sensor development
 
   - title: Student Research Assistant
     company: KIT
